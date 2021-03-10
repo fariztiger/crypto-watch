@@ -1,0 +1,24 @@
+{
+  "name": "crypto-watch",
+  "version": "1.0.0",
+  "description": "Monitors public exchange market data to watch for sudden changes in prices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rainner/crypto-watch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rainner/crypto-watch/issues"
+  },
+  "homepage": "https://github.com/rainner/crypto-watch#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "ws": "^7.4.4"
+  }
+}
