@@ -19,6 +19,7 @@
   "homepage": "https://github.com/rainner/crypto-watch#readme",
   "dependencies": {
     "axios": "^0.21.1",
+    "pkg": "^5.3.1",
     "ws": "^7.4.4"
   }
 }
